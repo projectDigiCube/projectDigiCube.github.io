@@ -1,12 +1,29 @@
 ---
 permalink: /
-title: "Project DigiCube aims to design and implement a generic digital twin for CubeSat applications."
+title: "Project DigiCube."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-In today's world, the rapid expansion of the space sector is heavily supported by the miniaturisation of satellites and their components. CubeSats are a class of nano satellites that have become increasingly popular due to their standardisation practices which define each satellite in terms of 10cm cubic ‘units’- currently being used within the European Space Agency's Hera planetary defence mission to conduct a multi-point analysis of an asteroid. Although standardisation simplifies some aspects of CubeSat projects, these missions still require efficient monitoring and optimisation during both construction and operation. Currently, real-time insights into CubeSat performance and design optimisation methods are limited, increasing the risk of mission failure due to unanticipated subsystem interactions or malfunctions. Digital twins, as virtual replicas of physical systems, offer a promising solution by mirroring real-time data to monitor, predict, and optimise performance, enhancing CubeSat mission reliability. 
+# Welcome to the DigiCube Project  
 
-The DigiCube project aims to design and model a fully modular, generic digital twin of a CubeSat within MATLAB Simulink by way of a model-based systems engineering (MBSE) approach. The digital twin should support mission teams throughout the design, optimisation and post-launch operation phases of a mission – providing a comprehensive platform for system analysis, testing and fault detection. Each subsystem will be designed and created concurrently, in line with a high-level system plan, to ensure seamless subsystem integration and adaptability.
+The rapid growth of the space sector is driven by advancements in satellite miniaturisation, particularly with CubeSats—nanosatellites defined by standardised 10 cm cubic "units." CubeSats have gained popularity due to their cost-efficiency and versatility, with applications ranging from academic research to planetary defense missions like the European Space Agency's Hera project, which uses CubeSats for multi-point asteroid analysis.  
+
+While CubeSat standardisation simplifies some aspects of development, mission success still relies heavily on efficient monitoring and optimisation during construction and operation. Currently, limited real-time insights and design optimisation tools increase the risk of mission failure due to unforeseen subsystem interactions or malfunctions.  
+
+## About the Project  
+
+The **DigiCube Project** addresses this challenge by developing a fully modular, generic digital twin for CubeSats using a **Model-Based Systems Engineering (MBSE)** approach in MATLAB Simulink.  
+
+A digital twin acts as a virtual replica of a physical CubeSat, mirroring real-time data to monitor, predict, and optimise its performance. This innovation promises to improve CubeSat mission reliability by offering a comprehensive platform for:  
+- **Design Analysis and Optimisation**  
+- **System Integration and Testing**  
+- **Post-Launch Monitoring and Fault Detection**  
+
+## Project Approach  
+
+Subsystems within the digital twin are developed concurrently and integrated seamlessly, following a robust high-level system plan. This modular design ensures adaptability, supporting mission teams across every phase of a CubeSat project—from initial design to in-orbit operations.  
+
+Explore how DigiCube is transforming CubeSat missions with cutting-edge digital twin technology!  
