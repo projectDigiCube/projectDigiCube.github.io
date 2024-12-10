@@ -25,10 +25,10 @@ author:
   name             : "Project DigiCube"
   pronouns         : # example: "she/her"  
   bio              : "An MEng project group aiming to provide generic digital twinning for CubeSats across sectors"
-  location         : "Earth"
-  employer         : "Queen Mary Collage, University of London"
+  location         : "London"
+  employer         : "Queen Mary University of London"
   uri              : # URL
-  email            : "" 
+  email            : "j.hubbard@se21.qmul.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
